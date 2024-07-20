@@ -1,0 +1,13 @@
+.main-routing{
+  text-decoration: none;
+  color: white;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+.main-routing .active{
+  font-weight: 600;
+}
+.product-card:hover .card-body{
+  
+  cursor: pointer;
+}
